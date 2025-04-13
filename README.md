@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/shivjiagnihotri">
+  <a href="https://www.linkedin.com/in/hanif-mohammad">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
 </div>
-<h1 align="center">Hi 👋, I'm Shivji Agnihotri</h1>
-<h3 align="center">A passionate AI-ML/ Backend Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Hanif Mohammad</h1>
+<h3 align="center">A passionate Full-Stack/ Backend Developer from India</h3>
